@@ -2,6 +2,7 @@ Exploratory Data Analysis (EDA)
 
 
 Introduction
+
 The purpose of this EDA is to perform a comprehensive analysis of the dataset in order to understand its properties and characteristics. This analysis will help to identify;
 any missing values
 outliers
@@ -61,10 +62,21 @@ In conclusion, this EDA has provided a comprehensive understanding of the datase
 
 
 
+
+
+
+
+
+
+
+
+
 Logistic Regression
 
 
 Introduction
+
+
 This project aims to build a logistic regression model for [bank churn data]. Logistic regression is a statistical method for analyzing a dataset in which there are one or more independent variables that determine an outcome.
 
 Data
